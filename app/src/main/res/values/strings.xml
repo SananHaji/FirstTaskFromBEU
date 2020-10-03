@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FirstTaskFromBEU</string>
+    <string name="textview_after_clicked_button">You already clicked button</string>
+    <string name="button_after_clicked_button">you can not click</string>
+    <string name="toast_message_button">you clicked the button</string>
+</resources>
